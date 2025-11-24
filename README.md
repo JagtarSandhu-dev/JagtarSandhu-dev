@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jagtar Singh Sandhu
 
 ## 🌟 About Me
-I’m pursuing an Honours BSc in Computer Science and Business Management at Wilfrid Laurier University.  
+Currently pursuing an Honours BSc in Computer Science and Business Management at Wilfrid Laurier University. Previously Graduated with Honours as an Electromechanical Engineering Technician from George Brown College. 
 
 I have extensive experience in technical consulting, databases, and exploring new tech trends — but my deepest passion lies in **Technical Entrepreneurship**.
 

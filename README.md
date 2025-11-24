@@ -8,8 +8,8 @@ I have extensive experience in technical consulting, databases, and exploring ne
 ## 🚀 Top Projects
 - **SQL Schema for University**  
   Designed a 3NF database for a University, complete with ERD diagrams, a live demo and justification for each creative decision.
-- **GitHub 101 Presentation**  
-  Delivered a beginner-friendly GitHub workshop for upcoming Co-op students.  
+- **Automated Drone Delivery System**  
+  Engineering a Drone and Drone delivery system, including the CAD model, aviation electronics, and flight control programming.  
 - **Fitness Marketplace**  
   Created an AI-powered fitness-based marketplace complete with personalized recommendations, a review system, and administrative controls.  
 
